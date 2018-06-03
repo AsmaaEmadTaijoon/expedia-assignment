@@ -6,7 +6,7 @@
 	
     c. Tomcat 7.
 	
-2.Clone the project from Git Hub: 
+2.Clone the project from Git Hub: https://github.com/AsmaaEmadTaijoon/expedia-assignment.git .
 
 3.Switch directory to expedia-exercise.
 
